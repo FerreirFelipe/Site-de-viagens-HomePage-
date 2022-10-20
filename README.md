@@ -5,4 +5,4 @@ Temos como desafio realizar um site de viagens e nesse primeiro bimestre realiza
 
 O meu site é um site de viagens com destino a lugares que possuem trilhas e montanhas como principal ponto turístico.
 
-É só o começo, o nosso terá mais telas e constantes atualizações até que seja concluído.
+É só o começo, o nosso site terá mais telas e constantes atualizações até que seja concluído.
